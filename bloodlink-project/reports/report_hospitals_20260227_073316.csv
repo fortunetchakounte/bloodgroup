@@ -1,0 +1,6 @@
+﻿id;hospital_name;email;city;contact_person;phone;verified;registration_date;request_count;fulfilled_requests
+7;Laquintine;Laquintine@hospital.com;Bertoua;"Dr PIERRE";+237672341384;Yes;2026-02-27;0;0
+6;Bonassama;bonassama@hospital.com;douala;"Dr Jean";+237670762128;No;2026-02-27;0;0
+5;KINTON;kinton@hospital.com;Yaounde;"Dr KANA";+237670762128;No;2026-02-27;0;0
+4;"Fortune hospital";fortune@hospital.com;douala;"Dr Fortune";+237670762128;Yes;2026-02-24;10;1
+3;unite;contact@hospital.com;douala;"Dr Fortune";+237693651524;Yes;2026-02-23;0;0
